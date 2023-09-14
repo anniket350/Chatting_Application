@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="log_in">Log in</string>
+    <string name="hello_guys">Hello Guys !!!</string>
+    <string name="aniket">Aniket</string>
+</resources>
